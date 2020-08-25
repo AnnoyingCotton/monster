@@ -1,0 +1,9 @@
+name: monster
+version: 1.0
+main: anCot.Monster.main
+description: monster!
+load: POSTWORLD
+
+commands:
+    startgame:
+        usage: /startgame
